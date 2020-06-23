@@ -19,8 +19,9 @@
 #
 
 common_cells:
-  commit: v1.13.1
+  commit: 1953add4e9fa2c209df764c8cb06c86169313a88 
   domain: [soc, cluster]
+  group: recogni 
 
 fpu_div_sqrt_mvp:
   commit: v1.0.3
