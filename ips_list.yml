@@ -19,8 +19,9 @@
 #
 
 common_cells:
-  commit: v1.13.1
+  commit: scorpio-v1-tapeout
   domain: [soc, cluster]
+  group:  recogni
 
 fpu_div_sqrt_mvp:
   commit: v1.0.3
